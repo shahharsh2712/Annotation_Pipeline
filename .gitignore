@@ -1,0 +1,45 @@
+# Ignore virtual environment folders
+annotation_env/
+venv/
+env/
+
+# Ignore datasets and models (if they are large or contain sensitive information)
+datasets/
+models/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore IDE or editor settings
+.vscode/
+.idea/
+
+# Ignore compiled Python files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+
+# Ignore environment variables or configuration files
+.env
