@@ -1,4 +1,4 @@
-# Automated Annotation System for Hallucination Detection
+# Automated Annotation System for Hallucination Detection and Classification
 
 This project focuses on building an automated annotation system to detect and classify hallucinations in text-to-image models.
 
